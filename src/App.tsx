@@ -50,31 +50,6 @@ const GlobalStyle = createGlobalStyle`
   }
 `;
 
-const product = {
-  id: 123,
-  title: "Lorem Ipsum",
-  category: "Wololo",
-  price: 69.69,
-  description: "Asdf asdF dsfads ",
-  image: "DSaf",
-  rating: {
-    rate: 3.3,
-    count: 33,
-  },
-};
-
-const line = {
-  productId: 123,
-  quantity: 2,
-};
-
-const cart = {
-  id: 12,
-  userId: 32,
-  products: [{ productId: 34, quantity: 12 }],
-  date: "asdf",
-};
-
 const router = createBrowserRouter(
   [
     { path: "/", element: <Home /> },
@@ -107,6 +82,7 @@ function ScrollToTop() {
 interface OrderContext {
   cartLines: CartLine[];
   wishlistLines: Product[];
+  geolocation?: GeolocationPosition;
 }
 
 interface OrderContextHook {
