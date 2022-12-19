@@ -1,0 +1,3818 @@
+[
+  {
+    "tags": {},
+    "filePath": "src/components/banners/banner.tsx",
+    "description": "",
+    "displayName": "Banner",
+    "methods": [],
+    "props": {
+      "particles": {
+        "defaultValue": null,
+        "description": "",
+        "name": "particles",
+        "parent": {
+          "fileName": "src/components/banners/banner.tsx",
+          "name": "BannerProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/banners/banner.tsx",
+            "name": "BannerProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "1 | 2"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/banners/particles.tsx",
+    "description": "",
+    "displayName": "Particles1Style",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: SVGSVGElement | null) => void) | RefObject<SVGSVGElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/blog/widgets/articleGrid.tsx",
+    "description": "",
+    "displayName": "ArticleGrid",
+    "methods": [],
+    "props": {
+      "title": {
+        "defaultValue": null,
+        "description": "",
+        "name": "title",
+        "parent": {
+          "fileName": "src/components/blog/widgets/articleGrid.tsx",
+          "name": "ArticleGridProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/blog/widgets/articleGrid.tsx",
+            "name": "ArticleGridProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "string | Element"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/cart/cart.tsx",
+    "description": "",
+    "displayName": "CartComponent",
+    "methods": [],
+    "props": {}
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/cart/cartItem.tsx",
+    "description": "",
+    "displayName": "CartItem",
+    "methods": [],
+    "props": {
+      "lineIdx": {
+        "defaultValue": null,
+        "description": "",
+        "name": "lineIdx",
+        "parent": {
+          "fileName": "src/components/cart/cartItem.tsx",
+          "name": "CartItemProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/cart/cartItem.tsx",
+            "name": "CartItemProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "number"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/cart/widgets/checkout.tsx",
+    "description": "",
+    "displayName": "Checkout",
+    "methods": [],
+    "props": {}
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/layout/layout.tsx",
+    "description": "",
+    "displayName": "Layout",
+    "methods": [],
+    "props": {}
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/layout/nav.tsx",
+    "description": "",
+    "displayName": "Nav",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLElement | null) => void) | RefObject<HTMLElement> | null | undefined"
+        }
+      },
+      "fill": {
+        "defaultValue": null,
+        "description": "",
+        "name": "fill",
+        "parent": {
+          "fileName": "src/components/layout/nav.tsx",
+          "name": "NavProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/layout/nav.tsx",
+            "name": "NavProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "boolean | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "DefaultTheme | undefined"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/layout/nav.tsx",
+    "description": "",
+    "displayName": "Logo",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLHeadingElement | null) => void) | RefObject<HTMLHeadingElement> | null | undefined"
+        }
+      },
+      "weight": {
+        "defaultValue": null,
+        "description": "",
+        "name": "weight",
+        "parent": {
+          "fileName": "dealerz/src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "dealerz/src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Weight | undefined"
+        }
+      },
+      "transform": {
+        "defaultValue": null,
+        "description": "",
+        "name": "transform",
+        "parent": {
+          "fileName": "dealerz/src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "dealerz/src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Transform | undefined"
+        }
+      },
+      "align": {
+        "defaultValue": null,
+        "description": "",
+        "name": "align",
+        "parent": {
+          "fileName": "dealerz/src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "dealerz/src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Align | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "DefaultTheme | undefined"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/layout/nav.tsx",
+    "description": "",
+    "displayName": "ContactLink",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLAnchorElement | null) => void) | RefObject<HTMLAnchorElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "DefaultTheme | undefined"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/layout/nav.tsx",
+    "description": "",
+    "displayName": "Space",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLDivElement | null) => void) | RefObject<HTMLDivElement> | null | undefined"
+        }
+      },
+      "direction": {
+        "defaultValue": null,
+        "description": "",
+        "name": "direction",
+        "parent": {
+          "fileName": "src/components/layout/nav.tsx",
+          "name": "SpaceProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/layout/nav.tsx",
+            "name": "SpaceProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "\"left\" | \"right\" | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "DefaultTheme | undefined"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/layout/nav.tsx",
+    "description": "",
+    "displayName": "WidgetContainer",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLDivElement | null) => void) | RefObject<HTMLDivElement> | null | undefined"
+        }
+      },
+      "icon": {
+        "defaultValue": null,
+        "description": "",
+        "name": "icon",
+        "parent": {
+          "fileName": "src/components/layout/nav.tsx",
+          "name": "WidgetProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/layout/nav.tsx",
+            "name": "WidgetProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "\"filter\" | \"search\" | \"bell\" | \"phone\" | \"user\" | \"heart\" | \"cart\" | \"arrowRight\" | \"arrowSharpLeft\" | \"arrowSharpRight\" | \"bin\""
+        }
+      },
+      "count": {
+        "defaultValue": null,
+        "description": "",
+        "name": "count",
+        "parent": {
+          "fileName": "src/components/layout/nav.tsx",
+          "name": "WidgetProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/layout/nav.tsx",
+            "name": "WidgetProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "number | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "DefaultTheme | undefined"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/layout/nav.tsx",
+    "description": "",
+    "displayName": "WidgetIcon",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLDivElement | null) => void) | RefObject<HTMLDivElement> | null | undefined"
+        }
+      },
+      "icon": {
+        "defaultValue": null,
+        "description": "",
+        "name": "icon",
+        "parent": {
+          "fileName": "src/components/layout/nav.tsx",
+          "name": "WidgetProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/layout/nav.tsx",
+            "name": "WidgetProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "\"filter\" | \"search\" | \"bell\" | \"phone\" | \"user\" | \"heart\" | \"cart\" | \"arrowRight\" | \"arrowSharpLeft\" | \"arrowSharpRight\" | \"bin\""
+        }
+      },
+      "count": {
+        "defaultValue": null,
+        "description": "",
+        "name": "count",
+        "parent": {
+          "fileName": "src/components/layout/nav.tsx",
+          "name": "WidgetProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/layout/nav.tsx",
+            "name": "WidgetProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "number | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "DefaultTheme | undefined"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/layout/nav.tsx",
+    "description": "",
+    "displayName": "WidgetCount",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLDivElement | null) => void) | RefObject<HTMLDivElement> | null | undefined"
+        }
+      },
+      "icon": {
+        "defaultValue": null,
+        "description": "",
+        "name": "icon",
+        "parent": {
+          "fileName": "src/components/layout/nav.tsx",
+          "name": "WidgetProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/layout/nav.tsx",
+            "name": "WidgetProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "\"filter\" | \"search\" | \"bell\" | \"phone\" | \"user\" | \"heart\" | \"cart\" | \"arrowRight\" | \"arrowSharpLeft\" | \"arrowSharpRight\" | \"bin\""
+        }
+      },
+      "count": {
+        "defaultValue": null,
+        "description": "",
+        "name": "count",
+        "parent": {
+          "fileName": "src/components/layout/nav.tsx",
+          "name": "WidgetProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/layout/nav.tsx",
+            "name": "WidgetProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "number | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "DefaultTheme | undefined"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/layout/nav.tsx",
+    "description": "",
+    "displayName": "Widget",
+    "methods": [],
+    "props": {
+      "icon": {
+        "defaultValue": null,
+        "description": "",
+        "name": "icon",
+        "parent": {
+          "fileName": "src/components/layout/nav.tsx",
+          "name": "WidgetProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/layout/nav.tsx",
+            "name": "WidgetProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "\"filter\" | \"search\" | \"bell\" | \"phone\" | \"user\" | \"heart\" | \"cart\" | \"arrowRight\" | \"arrowSharpLeft\" | \"arrowSharpRight\" | \"bin\""
+        }
+      },
+      "count": {
+        "defaultValue": null,
+        "description": "",
+        "name": "count",
+        "parent": {
+          "fileName": "src/components/layout/nav.tsx",
+          "name": "WidgetProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/layout/nav.tsx",
+            "name": "WidgetProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "number | undefined"
+        }
+      },
+      "onClick": {
+        "defaultValue": null,
+        "description": "",
+        "name": "onClick",
+        "parent": {
+          "fileName": "src/components/layout/nav.tsx",
+          "name": "WidgetProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/layout/nav.tsx",
+            "name": "WidgetProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/misc/carousel.tsx",
+    "description": "",
+    "displayName": "Carousel",
+    "methods": [],
+    "props": {}
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/misc/carousel.tsx",
+    "description": "",
+    "displayName": "Carousel2",
+    "methods": [],
+    "props": {}
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/autoGrid.tsx",
+    "description": "",
+    "displayName": "AutoGrid",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLDivElement | null) => void) | RefObject<HTMLDivElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/button.tsx",
+    "description": "",
+    "displayName": "Button",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLButtonElement | null) => void) | RefObject<HTMLButtonElement> | null | undefined"
+        }
+      },
+      "iconLeft": {
+        "defaultValue": null,
+        "description": "",
+        "name": "iconLeft",
+        "parent": {
+          "fileName": "src/components/primitives/button.tsx",
+          "name": "ButtonProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/button.tsx",
+            "name": "ButtonProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "\"filter\" | \"bell\" | \"phone\" | \"search\" | \"user\" | \"heart\" | \"cart\" | \"arrowRight\" | \"arrowSharpLeft\" | \"arrowSharpRight\" | \"bin\" | undefined"
+        }
+      },
+      "iconRight": {
+        "defaultValue": null,
+        "description": "",
+        "name": "iconRight",
+        "parent": {
+          "fileName": "src/components/primitives/button.tsx",
+          "name": "ButtonProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/button.tsx",
+            "name": "ButtonProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "\"filter\" | \"bell\" | \"phone\" | \"search\" | \"user\" | \"heart\" | \"cart\" | \"arrowRight\" | \"arrowSharpLeft\" | \"arrowSharpRight\" | \"bin\" | undefined"
+        }
+      },
+      "align": {
+        "defaultValue": null,
+        "description": "",
+        "name": "align",
+        "parent": {
+          "fileName": "src/components/primitives/button.tsx",
+          "name": "ButtonProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/button.tsx",
+            "name": "ButtonProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "\"center\" | \"start\" | \"end\" | undefined"
+        }
+      },
+      "justify": {
+        "defaultValue": null,
+        "description": "",
+        "name": "justify",
+        "parent": {
+          "fileName": "src/components/primitives/button.tsx",
+          "name": "ButtonProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/button.tsx",
+            "name": "ButtonProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "boolean | undefined"
+        }
+      },
+      "border": {
+        "defaultValue": {
+          "value": "rounded"
+        },
+        "description": "",
+        "name": "border",
+        "parent": {
+          "fileName": "src/components/primitives/button.tsx",
+          "name": "ButtonProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/button.tsx",
+            "name": "ButtonProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Border | undefined"
+        }
+      },
+      "outline": {
+        "defaultValue": null,
+        "description": "",
+        "name": "outline",
+        "parent": {
+          "fileName": "src/components/primitives/button.tsx",
+          "name": "ButtonProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/button.tsx",
+            "name": "ButtonProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "boolean | undefined"
+        }
+      },
+      "size": {
+        "defaultValue": {
+          "value": "small"
+        },
+        "description": "",
+        "name": "size",
+        "parent": {
+          "fileName": "src/components/primitives/button.tsx",
+          "name": "ButtonProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/button.tsx",
+            "name": "ButtonProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Size | undefined"
+        }
+      },
+      "onlyIcon": {
+        "defaultValue": null,
+        "description": "",
+        "name": "onlyIcon",
+        "parent": {
+          "fileName": "src/components/primitives/button.tsx",
+          "name": "ButtonProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/button.tsx",
+            "name": "ButtonProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "boolean | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/input.tsx",
+    "description": "",
+    "displayName": "Wrapper",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLDivElement | null) => void) | RefObject<HTMLDivElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/input.tsx",
+    "description": "",
+    "displayName": "Input",
+    "methods": [],
+    "props": {
+      "icon": {
+        "defaultValue": null,
+        "description": "",
+        "name": "icon",
+        "parent": {
+          "fileName": "src/components/primitives/input.tsx",
+          "name": "InputProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/input.tsx",
+            "name": "InputProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "\"filter\" | \"search\" | \"bell\" | \"phone\" | \"user\" | \"heart\" | \"cart\" | \"arrowRight\" | \"arrowSharpLeft\" | \"arrowSharpRight\" | \"bin\" | undefined"
+        }
+      },
+      "outline": {
+        "defaultValue": null,
+        "description": "",
+        "name": "outline",
+        "parent": {
+          "fileName": "src/components/primitives/input.tsx",
+          "name": "InputProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/input.tsx",
+            "name": "InputProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "boolean | undefined"
+        }
+      },
+      "primary": {
+        "defaultValue": null,
+        "description": "",
+        "name": "primary",
+        "parent": {
+          "fileName": "src/components/primitives/input.tsx",
+          "name": "InputProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/input.tsx",
+            "name": "InputProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "boolean | undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/numberPicker.tsx",
+    "description": "",
+    "displayName": "NumberPicker",
+    "methods": [],
+    "props": {
+      "onChangeNumber": {
+        "defaultValue": null,
+        "description": "",
+        "name": "onChangeNumber",
+        "parent": {
+          "fileName": "src/components/primitives/numberPicker.tsx",
+          "name": "NumberPickerProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/numberPicker.tsx",
+            "name": "NumberPickerProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "(number: number) => void"
+        }
+      },
+      "color": {
+        "defaultValue": null,
+        "description": "",
+        "name": "color",
+        "parent": {
+          "fileName": "src/components/primitives/numberPicker.tsx",
+          "name": "NumberPickerProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/numberPicker.tsx",
+            "name": "NumberPickerProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "string | undefined"
+        }
+      },
+      "bg": {
+        "defaultValue": null,
+        "description": "",
+        "name": "bg",
+        "parent": {
+          "fileName": "src/components/primitives/numberPicker.tsx",
+          "name": "NumberPickerProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/numberPicker.tsx",
+            "name": "NumberPickerProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "string | undefined"
+        }
+      },
+      "initialValue": {
+        "defaultValue": null,
+        "description": "",
+        "name": "initialValue",
+        "parent": {
+          "fileName": "src/components/primitives/numberPicker.tsx",
+          "name": "NumberPickerProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/numberPicker.tsx",
+            "name": "NumberPickerProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "number | undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/section.tsx",
+    "description": "",
+    "displayName": "Section",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLElement | null) => void) | RefObject<HTMLElement> | null | undefined"
+        }
+      },
+      "fill": {
+        "defaultValue": null,
+        "description": "",
+        "name": "fill",
+        "parent": {
+          "fileName": "src/components/primitives/section.tsx",
+          "name": "SectionProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/section.tsx",
+            "name": "SectionProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "string | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "H1",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLHeadingElement | null) => void) | RefObject<HTMLHeadingElement> | null | undefined"
+        }
+      },
+      "weight": {
+        "defaultValue": {
+          "value": "regular"
+        },
+        "description": "",
+        "name": "weight",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Weight | undefined"
+        }
+      },
+      "transform": {
+        "defaultValue": {
+          "value": "none"
+        },
+        "description": "",
+        "name": "transform",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Transform | undefined"
+        }
+      },
+      "align": {
+        "defaultValue": {
+          "value": "start"
+        },
+        "description": "",
+        "name": "align",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Align | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "H2",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLHeadingElement | null) => void) | RefObject<HTMLHeadingElement> | null | undefined"
+        }
+      },
+      "weight": {
+        "defaultValue": {
+          "value": "regular"
+        },
+        "description": "",
+        "name": "weight",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Weight | undefined"
+        }
+      },
+      "transform": {
+        "defaultValue": {
+          "value": "none"
+        },
+        "description": "",
+        "name": "transform",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Transform | undefined"
+        }
+      },
+      "align": {
+        "defaultValue": {
+          "value": "start"
+        },
+        "description": "",
+        "name": "align",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Align | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "H3",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLHeadingElement | null) => void) | RefObject<HTMLHeadingElement> | null | undefined"
+        }
+      },
+      "weight": {
+        "defaultValue": {
+          "value": "regular"
+        },
+        "description": "",
+        "name": "weight",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Weight | undefined"
+        }
+      },
+      "transform": {
+        "defaultValue": {
+          "value": "none"
+        },
+        "description": "",
+        "name": "transform",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Transform | undefined"
+        }
+      },
+      "align": {
+        "defaultValue": {
+          "value": "start"
+        },
+        "description": "",
+        "name": "align",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Align | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "H4",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLHeadingElement | null) => void) | RefObject<HTMLHeadingElement> | null | undefined"
+        }
+      },
+      "weight": {
+        "defaultValue": {
+          "value": "regular"
+        },
+        "description": "",
+        "name": "weight",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Weight | undefined"
+        }
+      },
+      "transform": {
+        "defaultValue": {
+          "value": "none"
+        },
+        "description": "",
+        "name": "transform",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Transform | undefined"
+        }
+      },
+      "align": {
+        "defaultValue": {
+          "value": "start"
+        },
+        "description": "",
+        "name": "align",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Align | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "H5",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLHeadingElement | null) => void) | RefObject<HTMLHeadingElement> | null | undefined"
+        }
+      },
+      "weight": {
+        "defaultValue": {
+          "value": "regular"
+        },
+        "description": "",
+        "name": "weight",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Weight | undefined"
+        }
+      },
+      "transform": {
+        "defaultValue": {
+          "value": "none"
+        },
+        "description": "",
+        "name": "transform",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Transform | undefined"
+        }
+      },
+      "align": {
+        "defaultValue": {
+          "value": "start"
+        },
+        "description": "",
+        "name": "align",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Align | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "H6",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLHeadingElement | null) => void) | RefObject<HTMLHeadingElement> | null | undefined"
+        }
+      },
+      "weight": {
+        "defaultValue": {
+          "value": "regular"
+        },
+        "description": "",
+        "name": "weight",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Weight | undefined"
+        }
+      },
+      "transform": {
+        "defaultValue": {
+          "value": "none"
+        },
+        "description": "",
+        "name": "transform",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Transform | undefined"
+        }
+      },
+      "align": {
+        "defaultValue": {
+          "value": "start"
+        },
+        "description": "",
+        "name": "align",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Align | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "Display",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLHeadingElement | null) => void) | RefObject<HTMLHeadingElement> | null | undefined"
+        }
+      },
+      "weight": {
+        "defaultValue": {
+          "value": "regular"
+        },
+        "description": "",
+        "name": "weight",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Weight | undefined"
+        }
+      },
+      "transform": {
+        "defaultValue": {
+          "value": "none"
+        },
+        "description": "",
+        "name": "transform",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Transform | undefined"
+        }
+      },
+      "align": {
+        "defaultValue": {
+          "value": "start"
+        },
+        "description": "",
+        "name": "align",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Align | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "Headline",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLHeadingElement | null) => void) | RefObject<HTMLHeadingElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "Body1",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLSpanElement | null) => void) | RefObject<HTMLSpanElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "Body2",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLSpanElement | null) => void) | RefObject<HTMLSpanElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "Caption",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLSpanElement | null) => void) | RefObject<HTMLSpanElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "Notification",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLSpanElement | null) => void) | RefObject<HTMLSpanElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "Menu1",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLSpanElement | null) => void) | RefObject<HTMLSpanElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "Menu2",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLSpanElement | null) => void) | RefObject<HTMLSpanElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/primitives/typography.tsx",
+    "description": "",
+    "displayName": "P",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLParagraphElement | null) => void) | RefObject<HTMLParagraphElement> | null | undefined"
+        }
+      },
+      "weight": {
+        "defaultValue": {
+          "value": "regular"
+        },
+        "description": "",
+        "name": "weight",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Weight | undefined"
+        }
+      },
+      "transform": {
+        "defaultValue": {
+          "value": "none"
+        },
+        "description": "",
+        "name": "transform",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Transform | undefined"
+        }
+      },
+      "align": {
+        "defaultValue": {
+          "value": "start"
+        },
+        "description": "",
+        "name": "align",
+        "parent": {
+          "fileName": "src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Align | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/categBar.tsx",
+    "description": "",
+    "displayName": "CategBarWrapper",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLDivElement | null) => void) | RefObject<HTMLDivElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/categBar.tsx",
+    "description": "",
+    "displayName": "CategBarFlex",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLDivElement | null) => void) | RefObject<HTMLDivElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "any"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/categBar.tsx",
+    "description": "",
+    "displayName": "CategBar",
+    "methods": [],
+    "props": {
+      "onChangeCateg": {
+        "defaultValue": null,
+        "description": "",
+        "name": "onChangeCateg",
+        "parent": {
+          "fileName": "src/components/shop/categBar.tsx",
+          "name": "CategBarProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/categBar.tsx",
+            "name": "CategBarProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "(categ: string) => void"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/product/card.tsx",
+    "description": "",
+    "displayName": "ButtonWrapper",
+    "methods": [],
+    "props": {
+      "ref": {
+        "defaultValue": null,
+        "description": "",
+        "name": "ref",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/react/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "((instance: HTMLDivElement | null) => void) | RefObject<HTMLDivElement> | null | undefined"
+        }
+      },
+      "theme": {
+        "defaultValue": null,
+        "description": "",
+        "name": "theme",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "DefaultTheme | undefined"
+        }
+      },
+      "as": {
+        "defaultValue": null,
+        "description": "",
+        "name": "as",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      },
+      "forwardedAs": {
+        "defaultValue": null,
+        "description": "",
+        "name": "forwardedAs",
+        "declarations": [
+          {
+            "fileName": "dealerz/node_modules/@types/styled-components/index.d.ts",
+            "name": "TypeLiteral"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/product/card.tsx",
+    "description": "",
+    "displayName": "Card1",
+    "methods": [],
+    "props": {
+      "product": {
+        "defaultValue": null,
+        "description": "",
+        "name": "product",
+        "parent": {
+          "fileName": "src/components/shop/product/card.tsx",
+          "name": "CardProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/product/card.tsx",
+            "name": "CardProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "Product"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/product/card.tsx",
+    "description": "",
+    "displayName": "Card2",
+    "methods": [],
+    "props": {
+      "product": {
+        "defaultValue": null,
+        "description": "",
+        "name": "product",
+        "parent": {
+          "fileName": "src/components/shop/product/card.tsx",
+          "name": "CardProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/product/card.tsx",
+            "name": "CardProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "Product"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/product/card.tsx",
+    "description": "",
+    "displayName": "Card3",
+    "methods": [],
+    "props": {
+      "product": {
+        "defaultValue": null,
+        "description": "",
+        "name": "product",
+        "parent": {
+          "fileName": "src/components/shop/product/card.tsx",
+          "name": "CardProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/product/card.tsx",
+            "name": "CardProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "Product"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/product/card.tsx",
+    "description": "",
+    "displayName": "Card4",
+    "methods": [],
+    "props": {
+      "product": {
+        "defaultValue": null,
+        "description": "",
+        "name": "product",
+        "parent": {
+          "fileName": "src/components/shop/product/card.tsx",
+          "name": "CardProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/product/card.tsx",
+            "name": "CardProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "Product"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/product/imageGallery.tsx",
+    "description": "",
+    "displayName": "ImageGallery",
+    "methods": [],
+    "props": {
+      "currentImage": {
+        "defaultValue": null,
+        "description": "",
+        "name": "currentImage",
+        "parent": {
+          "fileName": "src/components/shop/product/imageGallery.tsx",
+          "name": "ImageGalleryProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/product/imageGallery.tsx",
+            "name": "ImageGalleryProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "number"
+        }
+      },
+      "images": {
+        "defaultValue": null,
+        "description": "",
+        "name": "images",
+        "parent": {
+          "fileName": "src/components/shop/product/imageGallery.tsx",
+          "name": "ImageGalleryProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/product/imageGallery.tsx",
+            "name": "ImageGalleryProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "ImageInfo[]"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/product/stars.tsx",
+    "description": "",
+    "displayName": "Stars",
+    "methods": [],
+    "props": {
+      "rating": {
+        "defaultValue": null,
+        "description": "",
+        "name": "rating",
+        "parent": {
+          "fileName": "src/components/shop/product/stars.tsx",
+          "name": "StarsProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/product/stars.tsx",
+            "name": "StarsProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "number"
+        }
+      },
+      "size": {
+        "defaultValue": null,
+        "description": "",
+        "name": "size",
+        "parent": {
+          "fileName": "src/components/shop/product/stars.tsx",
+          "name": "StarsProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/product/stars.tsx",
+            "name": "StarsProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "number | undefined"
+        }
+      },
+      "weight": {
+        "defaultValue": null,
+        "description": "",
+        "name": "weight",
+        "parent": {
+          "fileName": "dealerz/src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "dealerz/src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Weight | undefined"
+        }
+      },
+      "transform": {
+        "defaultValue": null,
+        "description": "",
+        "name": "transform",
+        "parent": {
+          "fileName": "dealerz/src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "dealerz/src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Transform | undefined"
+        }
+      },
+      "align": {
+        "defaultValue": null,
+        "description": "",
+        "name": "align",
+        "parent": {
+          "fileName": "dealerz/src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "dealerz/src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "Align | undefined"
+        }
+      },
+      "color": {
+        "defaultValue": null,
+        "description": "",
+        "name": "color",
+        "parent": {
+          "fileName": "dealerz/src/components/primitives/typography.tsx",
+          "name": "TypographyProps"
+        },
+        "declarations": [
+          {
+            "fileName": "dealerz/src/components/primitives/typography.tsx",
+            "name": "TypographyProps"
+          }
+        ],
+        "required": false,
+        "type": {
+          "name": "string | undefined"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/widgets/galleryGrid.tsx",
+    "description": "",
+    "displayName": "GalleryGrid",
+    "methods": [],
+    "props": {
+      "title": {
+        "defaultValue": null,
+        "description": "",
+        "name": "title",
+        "parent": {
+          "fileName": "src/components/shop/widgets/galleryGrid.tsx",
+          "name": "GalleryGridProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/widgets/galleryGrid.tsx",
+            "name": "GalleryGridProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "string"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/widgets/product.tsx",
+    "description": "",
+    "displayName": "ProductDetails",
+    "methods": [],
+    "props": {
+      "product": {
+        "defaultValue": null,
+        "description": "",
+        "name": "product",
+        "parent": {
+          "fileName": "src/components/shop/widgets/product.tsx",
+          "name": "ProductDetailsProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/widgets/product.tsx",
+            "name": "ProductDetailsProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "Product"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/widgets/productQtyPicker.tsx",
+    "description": "",
+    "displayName": "ProductQtyPicker",
+    "methods": [],
+    "props": {
+      "product": {
+        "defaultValue": null,
+        "description": "",
+        "name": "product",
+        "parent": {
+          "fileName": "src/components/shop/widgets/productQtyPicker.tsx",
+          "name": "ProductQtyPickerProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/widgets/productQtyPicker.tsx",
+            "name": "ProductQtyPickerProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "Product"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/widgets/productReviews.tsx",
+    "description": "",
+    "displayName": "ProductReviews",
+    "methods": [],
+    "props": {
+      "product": {
+        "defaultValue": null,
+        "description": "",
+        "name": "product",
+        "parent": {
+          "fileName": "src/components/shop/widgets/productReviews.tsx",
+          "name": "ProductReviewsProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/widgets/productReviews.tsx",
+            "name": "ProductReviewsProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "Product"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/components/shop/widgets/topProducts.tsx",
+    "description": "",
+    "displayName": "TopProducts",
+    "methods": [],
+    "props": {
+      "title": {
+        "defaultValue": null,
+        "description": "",
+        "name": "title",
+        "parent": {
+          "fileName": "src/components/shop/widgets/topProducts.tsx",
+          "name": "TopProductsProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/widgets/topProducts.tsx",
+            "name": "TopProductsProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "string"
+        }
+      },
+      "subtitle": {
+        "defaultValue": null,
+        "description": "",
+        "name": "subtitle",
+        "parent": {
+          "fileName": "src/components/shop/widgets/topProducts.tsx",
+          "name": "TopProductsProps"
+        },
+        "declarations": [
+          {
+            "fileName": "src/components/shop/widgets/topProducts.tsx",
+            "name": "TopProductsProps"
+          }
+        ],
+        "required": true,
+        "type": {
+          "name": "string | Element"
+        }
+      }
+    }
+  },
+  {
+    "tags": {},
+    "filePath": "src/pages/checkout.tsx",
+    "description": "",
+    "displayName": "Checkout",
+    "methods": [],
+    "props": {}
+  },
+  {
+    "tags": {},
+    "filePath": "src/pages/gallery.tsx",
+    "description": "",
+    "displayName": "GalleryPage",
+    "methods": [],
+    "props": {}
+  },
+  {
+    "tags": {},
+    "filePath": "src/pages/index.tsx",
+    "description": "",
+    "displayName": "ProductPage",
+    "methods": [],
+    "props": {}
+  },
+  {
+    "tags": {},
+    "filePath": "src/pages/index.tsx",
+    "description": "",
+    "displayName": "GalleryPage",
+    "methods": [],
+    "props": {}
+  },
+  {
+    "tags": {},
+    "filePath": "src/pages/index.tsx",
+    "description": "",
+    "displayName": "Checkout",
+    "methods": [],
+    "props": {}
+  },
+  {
+    "tags": {},
+    "filePath": "src/pages/product.tsx",
+    "description": "",
+    "displayName": "ProductPage",
+    "methods": [],
+    "props": {}
+  }
+]
